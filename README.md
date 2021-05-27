@@ -25,7 +25,7 @@ To-do list:
 
 Getting Started
 
-    Go into swift and close repository
+    Go into swift and clone repository
     Use the following URL to clone:
     https://github.com/duncanjd267/Revature_iOS_Project1.git
     Create an access key if necessary
